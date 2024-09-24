@@ -6,59 +6,42 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=========
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.E. in Computer Science and Technology, Tsinghua University, 2021-2025
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Experience
+==========
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Intern, MSR AI for Science June 2024 - December 2024
+  - Improve the Ewald MP method to make it equivariant and fix problems in the original code
+  - Test in different molecular systems to explore the role of long-range modules
+* Partcipant of Academic Rising Stars Program, Tsinghua University July 2023 - Oct 2023
+  - Multi-task learning of proteins based on heterogeneous graphs
+  - Finding datasets about proteins and adding researched datasets to new datasets allows the model to complete multi-task learning
+  - Run the single-task experiment and compare the results of the single-task experiment with the multi-task experiment
+* Rising Stars Program “Basic Models” Special Project, Tsinghua University July 2023 - Aug 2023
+  - Lecture + Hackathon
+  - Gained a basic understanding of large language models
+  - Understood the LLM architecture and the application of large models in other tasks (multimodal model, protein language model). Had experience of finetuning
+* Partcipant of Academic Rising Stars Program, Tsinghua University Nov 2022 - May 2022
+  - AI for Medical Image
+  - Segmentation of bone rings in CT images using traditional image segmentation methods and neural network methods
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming Languages: C++,C, Python, JS/TS, SystemVerilog, VHDL, R
+* Frameworks: QT, Django, React, PyTorch
+* Tools: Linux,Git, LATEX, Docker
 
 Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+============
+
+**HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning**
+
+- Rong Han, Wenbing Huang, Lingxiao Luo, Xinyan Han, **Jiaming Shen**, Zhiqiang Zhang, Jun Zhou, Ting Che
+
