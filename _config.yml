@@ -217,12 +217,7 @@ collections:
   Honors:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
@@ -248,38 +243,21 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: CV
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _publications
+      # share: true
+      # comments: true
+  # Honors
   - scope:
       path: ""
-      type: publications
+      type: Honors
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+      # share: true
+      # comments: true
 
 
 # Sass/SCSS

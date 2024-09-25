@@ -1,10 +1,13 @@
-| layout  | title    | permalink  | author_profile |
-| ------- | -------- | ---------- | -------------- |
-| archive | Projects | /projects/ | true           |
+
+---
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
 
 ## [HuaDB](https://github.com/JiaMing07/database_hw)
 
-- Database course project. 
+- Database course project.
 
 ## [MiniDecaf](https://github.com/JiaMing07/Compiler-course-work)
 
@@ -19,10 +22,13 @@
 - Software Engineering project: Enterprise management system
 
 ## [Connect4](https://github.com/JiaMing07/ConnectFour)
+
 - Deciding the next position of an online game using the MCTS algorithm
 
 ## [Blogs website](https://github.com/JiaMing07/Blogs_website)
--  Building web pages based on crawled data via Django
+
+- Building web pages based on crawled data via Django
 
 ## [Chinese Draughts](https://github.com/JiaMing07/Chinese_draughts)
+
 - An online Chinese draughts game using Qt
