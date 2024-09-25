@@ -18,4 +18,4 @@ Welcome to my homepage! I am a fourth-year undergraduate student at Tsinghua Uni
 
 - CV: My short curriculum vitae
 - Projects: Some of the course projects I have done
-- Honors:
+- Honors: The honors and awards I received
