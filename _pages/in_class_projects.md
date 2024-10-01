@@ -1,12 +1,11 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "In class"
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
-
 ## [HuaDB](https://github.com/JiaMing07/database_hw)
 
 - Database course project.

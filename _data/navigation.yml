@@ -11,11 +11,17 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Projects"
+  - title: "Research"
+    url: /research/
+
+  - title: "In-class Projects"
     url: /projects/
   
   - title: "Honors"
     url: /honors/
+
+  - title: "Competition"
+    url: /competition/
 
   # - title: "Talks"
   #   url: /talks/    

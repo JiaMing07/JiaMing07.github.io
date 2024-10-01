@@ -30,6 +30,9 @@ Experience
 Publications
 ============
 
-**HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning**
+[1] Han R, Huang W, Luo L, et al. HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning[J]. arXiv preprint arXiv:2404.01693, 2024. [link](https://arxiv.org/abs/2404.01693)  under review with AAAI
 
-- Rong Han, Wenbing Huang, Lingxiao Luo, Xinyan Han, **Jiaming Shen**, Zhiqiang Zhang, Jun Zhou, Ting Che
+# Honors
+
+- Academic Excellence Scholarship in Tsinghua University(top 5%), 2023
+- Academic Excellence Scholarship in Tsinghua University(top 20%), 2022

@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "JiaMing Shen"
+name                     : &name "JiaMmng Shen"
 description              : &description "personal description"
 url                      : https://JiaMing07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ repository               : "JiaMing07/JiaMing07.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "JiaMing Shen"
+  avatar           : "JiamingShen.png"
+  name             : "Jiaming Shen"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate at Computer Science and Technology Department, Tsinghua University"
   location         : "Beijing, China"

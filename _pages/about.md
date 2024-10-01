@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "JiaMing Shen's homepage"
+title: "Jiaming Shen's homepage"
 author_profile: true
 redirect_from: 
   - /about/
