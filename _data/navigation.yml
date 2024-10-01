@@ -17,8 +17,8 @@ main:
   - title: "In-class Projects"
     url: /projects/
   
-  - title: "Honors"
-    url: /honors/
+  # - title: "Honors"
+  #   url: /honors/
 
   - title: "Competition"
     url: /competition/
